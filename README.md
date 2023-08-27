@@ -9,7 +9,7 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/rezazand/rezazand"><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></a>
+  <a href="https://github.com/rezazand"><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></a>
 </p>
 
 ---

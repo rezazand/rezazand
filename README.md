@@ -8,8 +8,6 @@
 </p>
 
 ---
-<p align="center">
-  <a href="https://github.com/rezazand"><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></a>
-</p>
+[![Metrics](/github-metrics.svg)](https://github.com/rezazand)
 
 ---

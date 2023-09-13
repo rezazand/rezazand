@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=1081C2&background=FFFFFF00&center=true&vCenter=true&width=475&lines=Full-Stack+Web+Developer;Software+Engineer;Loves+Open+Source+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=1081C2&background=FFFFFF00&center=true&vCenter=true&width=465&height=27&lines=Full-Stack+Web+Developer;Software+Engineer;Loves+Open+Source+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=rezazand&style=flat-square" alt="Profile Visits"> 

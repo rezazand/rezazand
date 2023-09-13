@@ -10,7 +10,7 @@
 </p>
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=rezazand&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=490&fire=EB801A&ring=43A012&currStreakNum=50BF15&sideNums=50BF15&currStreakLabel=EB801A&sideLabels=94EB35)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rezazand&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=EB801A&sideLabels=15AAFF&currStreakNum=15AAFF&ring=15AAFF&currStreakLabel=EB801A&sideNums=15AAFF&dates=1081C2)](https://git.io/streak-stats)
 
 ---
 
